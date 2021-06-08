@@ -20,6 +20,8 @@ function factorial(num) {
     return num;
 }
 
+// hola prueba
+
 input.onchange = function() {
     const num = input.value;
     if (isNaN(num)) {
